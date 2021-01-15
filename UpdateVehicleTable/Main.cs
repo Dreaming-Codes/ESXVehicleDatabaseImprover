@@ -32,9 +32,9 @@ namespace UpdateVehicleTable
                 for (int y = 0; y < dt.Rows.Count; y++)
                 {
                     string model = dt.Rows[y][0].ToString();
-                    Console.WriteLine($"GENERATING HASH FOR THE VEHICLE WITH THE FOLLOWING 'model': {model}");
+                    Console.Write($"GENERATING HASH FOR THE VEHICLE WITH THE FOLLOWING 'model': {model}");
                     int modelHashKey = GetHashKey(model);
-                    Console.Write($" -> {modelHashKey}");
+                    Console.WriteLine($" -> {modelHashKey}");
                     cmd2 += $"UPDATE vehicles SET hash = {modelHashKey} WHERE model = '{model}';";
                 }
 
