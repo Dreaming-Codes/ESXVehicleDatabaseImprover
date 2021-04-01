@@ -2,148 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2deeb36f-7d5d-4184-802f-5b36b870ca43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/UpdateVehicleTable.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UpdateVehicleTable.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UpdateVehicleTable/CitizenFX.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UpdateVehicleTable/Main.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UpdateVehicleTable/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UpdateVehicleTable/UpdateVehicleTable.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UpdateVehicleTable/packages.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/BouncyCastle.1.8.3.1/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/BouncyCastle.1.8.3.1/BouncyCastle.1.8.3.1.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/BouncyCastle.1.8.3.1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/BouncyCastle.1.8.3.1/lib/BouncyCastle.Crypto.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/Google.Protobuf.3.11.4.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/lib/net45/Google.Protobuf.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/lib/net45/Google.Protobuf.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/lib/net45/Google.Protobuf.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/lib/netstandard1.0/Google.Protobuf.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/lib/netstandard1.0/Google.Protobuf.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/lib/netstandard1.0/Google.Protobuf.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/lib/netstandard2.0/Google.Protobuf.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/lib/netstandard2.0/Google.Protobuf.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/Google.Protobuf.3.11.4/lib/netstandard2.0/Google.Protobuf.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.1.1.11/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.1.1.11/K4os.Compression.LZ4.1.1.11.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.1.1.11/lib/net45/K4os.Compression.LZ4.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.1.1.11/lib/net45/K4os.Compression.LZ4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.1.1.11/lib/net46/K4os.Compression.LZ4.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.1.1.11/lib/net46/K4os.Compression.LZ4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.1.1.11/lib/netstandard1.6/K4os.Compression.LZ4.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.1.1.11/lib/netstandard1.6/K4os.Compression.LZ4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.1.1.11/lib/netstandard2.0/K4os.Compression.LZ4.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.1.1.11/lib/netstandard2.0/K4os.Compression.LZ4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.Streams.1.1.11/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.Streams.1.1.11/K4os.Compression.LZ4.Streams.1.1.11.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/net45/K4os.Compression.LZ4.Streams.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/net45/K4os.Compression.LZ4.Streams.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/net46/K4os.Compression.LZ4.Streams.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/net46/K4os.Compression.LZ4.Streams.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/netstandard1.6/K4os.Compression.LZ4.Streams.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/netstandard1.6/K4os.Compression.LZ4.Streams.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/netstandard2.0/K4os.Compression.LZ4.Streams.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Compression.LZ4.Streams.1.1.11/lib/netstandard2.0/K4os.Compression.LZ4.Streams.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Hash.xxHash.1.0.6/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Hash.xxHash.1.0.6/K4os.Hash.xxHash.1.0.6.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Hash.xxHash.1.0.6/lib/net45/K4os.Hash.xxHash.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Hash.xxHash.1.0.6/lib/net45/K4os.Hash.xxHash.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Hash.xxHash.1.0.6/lib/net46/K4os.Hash.xxHash.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Hash.xxHash.1.0.6/lib/net46/K4os.Hash.xxHash.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Hash.xxHash.1.0.6/lib/netstandard1.6/K4os.Hash.xxHash.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Hash.xxHash.1.0.6/lib/netstandard1.6/K4os.Hash.xxHash.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Hash.xxHash.1.0.6/lib/netstandard2.0/K4os.Hash.xxHash.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/K4os.Hash.xxHash.1.0.6/lib/netstandard2.0/K4os.Hash.xxHash.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/MySql.Data.8.0.22.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/net452/MySql.Data.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/net452/MySql.Data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/net452/Ubiety.Dns.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/net452/Zstandard.Net.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/net48/MySql.Data.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/net48/MySql.Data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/net48/Ubiety.Dns.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/net48/Zstandard.Net.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/net5.0/MySql.Data.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/net5.0/MySql.Data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/net5.0/Ubiety.Dns.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/net5.0/Zstandard.Net.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/netstandard2.0/MySql.Data.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/netstandard2.0/MySql.Data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/netstandard2.0/Ubiety.Dns.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/netstandard2.0/Zstandard.Net.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/netstandard2.1/MySql.Data.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/netstandard2.1/MySql.Data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/netstandard2.1/Ubiety.Dns.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/MySql.Data.8.0.22/lib/netstandard2.1/Zstandard.Net.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/SSH.NET.2016.1.0/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/SSH.NET.2016.1.0/SSH.NET.2016.1.0.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/SSH.NET.2016.1.0/lib/net35/Renci.SshNet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/SSH.NET.2016.1.0/lib/net35/Renci.SshNet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/SSH.NET.2016.1.0/lib/net40/Renci.SshNet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/SSH.NET.2016.1.0/lib/net40/Renci.SshNet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/SSH.NET.2016.1.0/lib/netstandard1.3/Renci.SshNet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/SSH.NET.2016.1.0/lib/netstandard1.3/Renci.SshNet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/SSH.NET.2016.1.0/lib/sl4/Renci.SshNet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/SSH.NET.2016.1.0/lib/sl4/Renci.SshNet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/SSH.NET.2016.1.0/lib/sl5/Renci.SshNet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/SSH.NET.2016.1.0/lib/sl5/Renci.SshNet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/SSH.NET.2016.1.0/lib/uap10/Renci.SshNet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/SSH.NET.2016.1.0/lib/uap10/Renci.SshNet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/SSH.NET.2016.1.0/lib/wp71/Renci.SshNet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/SSH.NET.2016.1.0/lib/wp71/Renci.SshNet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/SSH.NET.2016.1.0/lib/wp8/Renci.SshNet.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/SSH.NET.2016.1.0/lib/wp8/Renci.SshNet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/LICENSE.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/System.Buffers.4.5.1.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/lib/net461/System.Buffers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/lib/net461/System.Buffers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/lib/netcoreapp2.0/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/lib/netstandard1.1/System.Buffers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/lib/netstandard1.1/System.Buffers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/lib/netstandard2.0/System.Buffers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/lib/netstandard2.0/System.Buffers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/lib/uap10.0.16299/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/ref/net45/System.Buffers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/ref/net45/System.Buffers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/ref/netcoreapp2.0/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/ref/netstandard1.1/System.Buffers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/ref/netstandard1.1/System.Buffers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/ref/netstandard2.0/System.Buffers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/ref/netstandard2.0/System.Buffers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/ref/uap10.0.16299/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/useSharedDesignerContext.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Buffers.4.5.1/version.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/LICENSE.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/System.Memory.4.5.3.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/lib/netcoreapp2.1/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/lib/netstandard1.1/System.Memory.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/lib/netstandard1.1/System.Memory.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/lib/netstandard2.0/System.Memory.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/lib/netstandard2.0/System.Memory.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/ref/netcoreapp2.1/_._" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/useSharedDesignerContext.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Memory.4.5.3/version.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/.signature.p7s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/LICENSE.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/System.Runtime.CompilerServices.Unsafe.4.5.2.nupkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/useSharedDesignerContext.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UpdateVehicleTable/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UpdateVehicleTable/obj/Debug/UpdateVehicleTable.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UpdateVehicleTable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UpdateVehicleTable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpdateVehicleTable/Main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UpdateVehicleTable/Main.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,8 +18,8 @@
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/UpdateVehicleTable/Class1.cs" />
-      <option value="$PROJECT_DIR$/UpdateVehicleTable/Main.cs" />
       <option value="$PROJECT_DIR$/UpdateVehicleTable/Properties/AssemblyInfo.cs" />
+      <option value="$PROJECT_DIR$/UpdateVehicleTable/Main.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1lkyO1SvHx6eGftX1cdqOphfKMb" />
@@ -167,6 +29,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -184,6 +47,7 @@
       <updated>1608155347871</updated>
       <workItem from="1608155351769" duration="3424000" />
       <workItem from="1608190457732" duration="1565000" />
+      <workItem from="1617306492631" duration="95000" />
     </task>
     <servers />
   </component>
@@ -202,6 +66,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

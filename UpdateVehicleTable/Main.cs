@@ -20,8 +20,8 @@ namespace UpdateVehicleTable
                 CommandText =
                     "SELECT model FROM vehicles"
             };
-            try
-            {
+
+            try {
                 Console.WriteLine("TRYING TO CONNECT TO YOUR MYSQL DATABASE");
                 con.Open();
                 Console.WriteLine("CONNECTION SUCCEEDED");
@@ -29,8 +29,7 @@ namespace UpdateVehicleTable
                 dt.Load(sdr);
                 Console.WriteLine("EXTRACTION OF VEHICLE MODELS FROM THE DATABASE COMPLETED");
                 string cmd2 = "";
-                for (int y = 0; y < dt.Rows.Count; y++)
-                {
+                for (int y = 0; y < dt.Rows.Count; y++) {
                     string model = dt.Rows[y][0].ToString();
                     Console.WriteLine($"GENERATING HASH FOR THE VEHICLE WITH THE FOLLOWING 'model': {model}");
                     int modelHashKey = GetHashKey(model);
@@ -43,15 +42,22 @@ namespace UpdateVehicleTable
                 Console.WriteLine("EXECUTING...");
                 cmd.ExecuteNonQuery();
                 Console.WriteLine("DONE");
-                Console.WriteLine("   _____                           _              _____          _           \n |  __ \\                         (_)            / ____|        | |          \n | |  | |_ __ ___  __ _ _ __ ___  _ _ __   __ _| |     ___   __| | ___  ___ \n | |  | | '__/ _ \\/ _` | '_ ` _ \\| | '_ \\ / _` | |    / _ \\ / _` |/ _ \\/ __|\n | |__| | | |  __/ (_| | | | | | | | | | | (_| | |___| (_) | (_| |  __/\\__ \\\n |_____/|_|  \\___|\\__,_|_| |_| |_|_|_| |_|\\__, |\\_____\\___/ \\__,_|\\___||___/\n                                           __/ |                            \n                                          |___/                             ");
+                Console.WriteLine(
+                    "   _____                           _              _____          _           \n |  __ \\                         (_)            / ____|        | |          \n | |  | |_ __ ___  __ _ _ __ ___  _ _ __   __ _| |     ___   __| | ___  ___ \n | |  | | '__/ _ \\/ _` | '_ ` _ \\| | '_ \\ / _` | |    / _ \\ / _` |/ _ \\/ __|\n | |__| | | |  __/ (_| | | | | | | | | | | (_| | |___| (_) | (_| |  __/\\__ \\\n |_____/|_|  \\___|\\__,_|_| |_| |_|_|_| |_|\\__, |\\_____\\___/ \\__,_|\\___||___/\n                                           __/ |                            \n                                          |___/                             ");
+
                 Console.WriteLine("Follow me on github <3");
 
 
-            } catch (Exception e)
-            {
-                Console.WriteLine("   _____                           _              _____          _           \n |  __ \\                         (_)            / ____|        | |          \n | |  | |_ __ ___  __ _ _ __ ___  _ _ __   __ _| |     ___   __| | ___  ___ \n | |  | | '__/ _ \\/ _` | '_ ` _ \\| | '_ \\ / _` | |    / _ \\ / _` |/ _ \\/ __|\n | |__| | | |  __/ (_| | | | | | | | | | | (_| | |___| (_) | (_| |  __/\\__ \\\n |_____/|_|  \\___|\\__,_|_| |_| |_|_|_| |_|\\__, |\\_____\\___/ \\__,_|\\___||___/\n                                           __/ |                            \n                                          |___/                             ");
+            }
+            catch (Exception e) {
+                Console.WriteLine(
+                    "   _____                           _              _____          _           \n |  __ \\                         (_)            / ____|        | |          \n | |  | |_ __ ___  __ _ _ __ ___  _ _ __   __ _| |     ___   __| | ___  ___ \n | |  | | '__/ _ \\/ _` | '_ ` _ \\| | '_ \\ / _` | |    / _ \\ / _` |/ _ \\/ __|\n | |__| | | |  __/ (_| | | | | | | | | | | (_| | |___| (_) | (_| |  __/\\__ \\\n |_____/|_|  \\___|\\__,_|_| |_| |_|_|_| |_|\\__, |\\_____\\___/ \\__,_|\\___||___/\n                                           __/ |                            \n                                          |___/                             ");
+
                 Console.WriteLine("AN ERROR OCCURRED PASTE THE TEXT BELOW ON A NEW ISSUE ON GITHUB");
                 Console.WriteLine(e);
+            }
+            finally {
+                StopResource(GetCurrentResourceName());
             }
         }
         private string AdaptString(string x)
